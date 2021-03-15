@@ -1,0 +1,6 @@
+cd "C:\Users\moiPC\Desktop\test_JOB"		перейти в папку 
+
+testing_JOB\Scripts\activate			активировать виртуальную среду
+testing_JOB\Scripts\deactivate			выключить виртуальную среду
+
+python parser.py				запустить сервер
